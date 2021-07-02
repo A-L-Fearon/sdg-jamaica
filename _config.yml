@@ -95,12 +95,14 @@ menu:
 
 
 footer_menu:
-  - path: mailto:my-email-address@example.com
+  - path: https://statinja.gov.jm/Contact.aspx
     translation_key: menu.contact_us
-  - path: https://twitter.com/MyTwitterAccount
+  - path: https://twitter.com/STATINJA
     translation_key: general.twitter
-  - path: https://facebook.com/MyFacebookAccount
+  - path: https://www.facebook.com/STATINJA/
     translation_key: general.facebook
+  - path: https://www.instagram.com/STATINJA/
+    translation_key: Instagram
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
 
