@@ -78,27 +78,31 @@ menu:
   # Use these to customise the main navigation.
   - home: /home
     translation_key: Home
+  - path: /guidance
+    translation_key: menu.guidance
   - path: /reporting-status
     # The "translation_key" refers to the key in the SDG Translations repository.
     translation_key: menu.reporting_status
-  - path: /about
-    translation_key: menu.about
-  - path: /guidance
-    translation_key: menu.guidance
-  - path: /faq
-    translation_key: menu.faq
-  - path: /news
-    translation_key: menu.updates
   - path: https://statinja.gov.jm/sdg.aspx#/Reports
     translation_key: Reports
+  - path: /news
+    translation_key: menu.updates
+#  - path: /about
+#    translation_key: menu.about
+  - path: /faq
+    translation_key: menu.faq
+
+
 
 footer_menu:
-  - path: mailto:my-email-address@example.com
+  - path: https://statinja.gov.jm/Contact.aspx
     translation_key: menu.contact_us
-  - path: https://twitter.com/MyTwitterAccount
+  - path: https://twitter.com/STATINJA
     translation_key: general.twitter
-  - path: https://facebook.com/MyFacebookAccount
+  - path: https://www.facebook.com/STATINJA/
     translation_key: general.facebook
+  - path: https://www.instagram.com/STATINJA/
+    translation_key: Instagram
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
 
